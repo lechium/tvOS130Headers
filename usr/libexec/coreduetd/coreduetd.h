@@ -1,0 +1,16 @@
+#import <coreduetd/CDDConfig.h>
+#import <coreduetd/CDServiceManager.h>
+#import <coreduetd/CDDWatchUpdateController.h>
+#import <coreduetd/CDPeopleDaemonConnection.h>
+#import <coreduetd/CDPeopleDaemon.h>
+#import <coreduetd/Cache.h>
+#import <coreduetd/CDDCommControl.h>
+#import <coreduetd/CDDFakeDevice.h>
+#import <coreduetd/CDDCommunicator.h>
+#import <coreduetd/CDKnowledgeDaemonConnection.h>
+#import <coreduetd/CDKnowledgeDaemon.h>
+#import <coreduetd/CDDPaths.h>
+#import <coreduetd/CDDataMigrator.h>
+#import <coreduetd/CDKnowledgeClientProxy.h>
+#import <coreduetd/CDD.h>
+#import <coreduetd/CDDPrivacyMonitor.h>
