@@ -1,0 +1,2 @@
+#import <GameCenterChallengeIssueExtension/GKChallengeIssueExtensionViewController.h>
+#import <GameCenterChallengeIssueExtension/GKChallengeIssueExtensionContext.h>

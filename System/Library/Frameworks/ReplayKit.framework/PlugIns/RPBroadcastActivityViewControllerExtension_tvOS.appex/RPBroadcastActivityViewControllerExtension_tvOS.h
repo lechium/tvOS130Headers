@@ -1,0 +1,11 @@
+#import <RPBroadcastActivityViewControllerExtension_tvOS/RPBroadcastConfiguration.h>
+#import <RPBroadcastActivityViewControllerExtension_tvOS/RPActivityCell.h>
+#import <RPBroadcastActivityViewControllerExtension_tvOS/RPActivityViewController.h>
+#import <RPBroadcastActivityViewControllerExtension_tvOS/RPBroadcastActivityExtensionFocusContainerView.h>
+#import <RPBroadcastActivityViewControllerExtension_tvOS/RPBroadcastActivityFocusWorkaroundView.h>
+#import <RPBroadcastActivityViewControllerExtension_tvOS/RPBroadcastActivityExtensionViewController.h>
+#import <RPBroadcastActivityViewControllerExtension_tvOS/RPBroadcastActivityExtensionContext.h>
+#import <RPBroadcastActivityViewControllerExtension_tvOS/RPExtensionHostContext.h>
+#import <RPBroadcastActivityViewControllerExtension_tvOS/RPDaemonProxy.h>
+#import <RPBroadcastActivityViewControllerExtension_tvOS/RPStreamingActivity.h>
+#import <RPBroadcastActivityViewControllerExtension_tvOS/RPStreamingActivityKey.h>

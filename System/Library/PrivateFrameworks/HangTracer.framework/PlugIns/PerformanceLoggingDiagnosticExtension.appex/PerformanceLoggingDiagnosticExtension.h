@@ -1,0 +1,3 @@
+#import <PerformanceLoggingDiagnosticExtension/PLPreferences.h>
+#import <PerformanceLoggingDiagnosticExtension/PerformanceLoggingDiagnosticExtensionExtension.h>
+#import <PerformanceLoggingDiagnosticExtension/PerfDiagsSelfEnablementController.h>

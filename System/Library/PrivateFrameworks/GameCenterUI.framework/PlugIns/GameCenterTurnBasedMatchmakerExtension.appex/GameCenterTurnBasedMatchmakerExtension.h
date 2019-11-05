@@ -1,0 +1,2 @@
+#import <GameCenterTurnBasedMatchmakerExtension/GKTurnBasedMatchmakerExtensionViewController.h>
+#import <GameCenterTurnBasedMatchmakerExtension/GKTurnBasedMatchmakerExtensionContext.h>

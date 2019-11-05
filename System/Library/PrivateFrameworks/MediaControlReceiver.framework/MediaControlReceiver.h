@@ -1,0 +1,2 @@
+#import <MediaControlReceiver/APReceiverMediaRemoteCommunicationChannelInternal.h>
+#import <MediaControlReceiver/APReceiverMediaRemoteCommunicationChannel.h>

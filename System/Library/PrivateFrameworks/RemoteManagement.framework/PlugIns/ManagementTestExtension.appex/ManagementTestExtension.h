@@ -1,0 +1,1 @@
+#import <ManagementTestExtension/ManagementTestApplicator.h>

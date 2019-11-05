@@ -1,0 +1,11 @@
+#import <com.apple.datamigrator/DMMigrationWatchdog.h>
+#import <com.apple.datamigrator/DMDataMigratorMigrationStatistics.h>
+#import <com.apple.datamigrator/DMMigrationState.h>
+#import <com.apple.datamigrator/DMClientInvocation.h>
+#import <com.apple.datamigrator/DMMigratorProxy.h>
+#import <com.apple.datamigrator/DMDiagnostics.h>
+#import <com.apple.datamigrator/DMIncident.h>
+#import <com.apple.datamigrator/DMPluginWhitelist.h>
+#import <com.apple.datamigrator/MigratorAlternateAppDelegate.h>
+#import <com.apple.datamigrator/DMMigrator.h>
+#import <com.apple.datamigrator/DataMigrationPlugin.h>

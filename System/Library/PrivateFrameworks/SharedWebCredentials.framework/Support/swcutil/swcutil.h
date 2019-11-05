@@ -1,0 +1,9 @@
+#import <swcutil/SWCDownloader.h>
+#import <swcutil/SWCDownloadTaskState.h>
+#import <swcutil/SWCEnterpriseContext.h>
+#import <swcutil/SWCEntry.h>
+#import <swcutil/SWCPattern.h>
+#import <swcutil/SWCPatternList.h>
+#import <swcutil/SWCDatabase.h>
+#import <swcutil/SWCDatabaseStorage.h>
+#import <swcutil/SWCSecurityGuard.h>

@@ -1,0 +1,15 @@
+#import <AppleMediaServicesUI/AMSUITintedBackgroundButton.h>
+#import <AppleMediaServicesUI/AMSUIOnboardingFeature.h>
+#import <AppleMediaServicesUI/AMSUIOnboardingViewController.h>
+#import <AppleMediaServicesUI/AMSUICGRectHelper.h>
+#import <AppleMediaServicesUI/AMSUIOnboardingFeatureView.h>
+#import <AppleMediaServicesUI/AMSUIOnboardingHeaderView.h>
+#import <AppleMediaServicesUI/AMSUIAuthenticateTask.h>
+#import <AppleMediaServicesUI/AMSUIPrivacyViewController.h>
+#import <AppleMediaServicesUI/AMSUIPrivacyIconViewController.h>
+#import <AppleMediaServicesUI/AMSUIAuthKitUpdatePromptController.h>
+#import <AppleMediaServicesUI/AMSUIButton.h>
+#import <AppleMediaServicesUI/AMSUIPrivacyPresentationController.h>
+#import <AppleMediaServicesUI/AMSUIAlertDialogTask.h>
+#import <AppleMediaServicesUI/AMSUIPrivacyAnimatedTransitioning.h>
+#import <AppleMediaServicesUI/AMSUIOnboardingMultiFeatureHeaderView.h>

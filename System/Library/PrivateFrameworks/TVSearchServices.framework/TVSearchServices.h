@@ -1,0 +1,10 @@
+#import <TVSearchServices/TVSSSearchAppService.h>
+#import <TVSearchServices/TVSSPlaybackActionOperation.h>
+#import <TVSearchServices/TVSSSearchResult.h>
+#import <TVSearchServices/TVSSContentItem.h>
+#import <TVSearchServices/TVSSSearchAppServiceInterface.h>
+#import <TVSearchServices/TVSSRelatedContentQuery.h>
+#import <TVSearchServices/TVSSSearchAppServiceConnection.h>
+#import <TVSearchServices/TVSSPlaybackActionOperationRequest.h>
+#import <TVSearchServices/TVSSSearchResultBatch.h>
+#import <TVSearchServices/TVSSPlaybackActionOperationResult.h>

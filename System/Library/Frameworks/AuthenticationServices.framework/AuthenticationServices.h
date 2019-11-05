@@ -1,0 +1,17 @@
+#import <AuthenticationServices/ASAuthorizationAppleIDProvider.h>
+#import <AuthenticationServices/ASAuthorizationSingleSignOnCredential.h>
+#import <AuthenticationServices/ASAuthorization.h>
+#import <AuthenticationServices/ASAuthorizationAppleIDCredential.h>
+#import <AuthenticationServices/ASAuthorizationRequest.h>
+#import <AuthenticationServices/ASAuthorizationSingleSignOnProvider.h>
+#import <AuthenticationServices/ASAuthorizationAppleIDRequest.h>
+#import <AuthenticationServices/ASPasswordCredential.h>
+#import <AuthenticationServices/ASAuthorizationController.h>
+#import <AuthenticationServices/ASEmpty.h>
+#import <AuthenticationServices/ASAuthorizationProviderExtensionAuthorizationRequest.h>
+#import <AuthenticationServices/ASAuthorizationAppleIDButton.h>
+#import <AuthenticationServices/_ASAuthorizationAppleIDButtonContentView.h>
+#import <AuthenticationServices/ASAuthorizationPasswordRequest.h>
+#import <AuthenticationServices/ASAuthorizationPasswordProvider.h>
+#import <AuthenticationServices/ASAuthorizationOpenIDRequest.h>
+#import <AuthenticationServices/ASAuthorizationSingleSignOnRequest.h>

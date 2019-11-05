@@ -1,0 +1,5 @@
+#import <AppStoreTopShelfExtension/AppStoreTopShelfActionImageName.h>
+#import <AppStoreTopShelfExtension/AppStoreTopShelfExtension.TopShelfContentProvider.h>
+#import <AppStoreTopShelfExtension/AppStoreTopShelfExtension.DiagnosticsReporter.h>
+#import <AppStoreTopShelfExtension/AppStoreTopShelfExtension.ObjectGraph.h>
+#import <AppStoreTopShelfExtension/AppStoreTopShelfExtension.TopShelfBootstrap.h>

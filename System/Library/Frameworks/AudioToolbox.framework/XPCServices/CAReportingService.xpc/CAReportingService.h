@@ -1,0 +1,11 @@
+#import <CAReportingService/CAReportingPowerLogUtility.h>
+#import <CAReportingService/CAReportingCoreAnalyticsBridge.h>
+#import <CAReportingService/CAReportingMacOSVolumeMonitor.h>
+#import <CAReportingService/CAReportingDriver.h>
+#import <CAReportingService/CAReportingIOChannelSubscription.h>
+#import <CAReportingService/CAReportingDriverUtility.h>
+#import <CAReportingService/CAReportingSession.h>
+#import <CAReportingService/CAReportingBlockThrottleTimerWrapper.h>
+#import <CAReportingService/CAReportingBlockThrottle.h>
+#import <CAReportingService/CAReportingServerInstance.h>
+#import <CAReportingService/CAReportingServiceDelegate.h>

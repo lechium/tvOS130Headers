@@ -1,0 +1,9 @@
+#import <IntentsFoundation/_IFValueTransformer.h>
+#import <IntentsFoundation/INFSentenceTokenWithContext.h>
+#import <IntentsFoundation/INFVariantsDescriptor.h>
+#import <IntentsFoundation/INFSentenceToken.h>
+#import <IntentsFoundation/INFSentence.h>
+#import <IntentsFoundation/INFNumber.h>
+#import <IntentsFoundation/INFGrammarCollection.h>
+#import <IntentsFoundation/INFSentenceContext.h>
+#import <IntentsFoundation/INFPartOfSpeech.h>

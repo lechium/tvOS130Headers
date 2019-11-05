@@ -1,0 +1,16 @@
+#import <ProtectedCloudKeySyncing/PCSIDSReplyContext.h>
+#import <ProtectedCloudKeySyncing/PCSIDSTransport.h>
+#import <ProtectedCloudKeySyncing/PCSDevice.h>
+#import <ProtectedCloudKeySyncing/EscrowProxySyncOperation.h>
+#import <ProtectedCloudKeySyncing/PCSDeviceManager.h>
+#import <ProtectedCloudKeySyncing/PCSRegistryOperation.h>
+#import <ProtectedCloudKeySyncing/PCSRegistryOperationPair.h>
+#import <ProtectedCloudKeySyncing/PCSIDSMessage.h>
+#import <ProtectedCloudKeySyncing/PCSIDSSyncing.h>
+#import <ProtectedCloudKeySyncing/PCSPeerSyncing.h>
+#import <ProtectedCloudKeySyncing/PCSDelayedAction.h>
+#import <ProtectedCloudKeySyncing/PCSKeyClient.h>
+#import <ProtectedCloudKeySyncing/PCSKeySyncing.h>
+#import <ProtectedCloudKeySyncing/AccountsModel.h>
+#import <ProtectedCloudKeySyncing/PCSSyncing.h>
+#import <ProtectedCloudKeySyncing/ServiceDelegate.h>

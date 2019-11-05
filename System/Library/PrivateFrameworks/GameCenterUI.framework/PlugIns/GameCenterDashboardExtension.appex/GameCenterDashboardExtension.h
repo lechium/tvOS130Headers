@@ -1,0 +1,2 @@
+#import <GameCenterDashboardExtension/GKDashboardExtensionViewController.h>
+#import <GameCenterDashboardExtension/GKDashboardExtensionContext.h>
